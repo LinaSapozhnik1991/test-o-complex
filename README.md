@@ -1,4 +1,4 @@
-## Имитация итернет-магазина
+## Имитация интернет-магазина
 
 Это проект [Next.js](https://github.com/LinaSapozhnik1991/Practice), созданный с помощью [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). Проект представляет собой лендинг-пейдж для дизайнерского агентства, демонстрирующий услуги и портфолио.
 
