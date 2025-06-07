@@ -1,0 +1,57 @@
+.review_item {
+  border: 1px solid #e0e0e0;
+  border-radius: 15px;
+  height: auto;
+  width: 30%;
+  padding: 20px 32px;
+  margin: 121px 0;
+  background-color: $bgCard;
+
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  .review_header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    text-align: center;
+    align-items: center;
+  }
+
+  .review_content {
+    font: $fontBody;
+    color: $textColorReview;
+  }
+}
+.review_list {
+  display: flex;
+  gap: 12px;
+  
+}
+ @media (max-width: 360px){
+  .review_item{
+    max-width: 332px;
+    width: 100%;
+    margin: 0;
+    padding: 2px;
+    h1{
+      font:$fontBody;
+      font-weight: bold;
+    }
+    p{
+      font: $fontMain;
+    }
+  
+  }
+  .review_list{
+    flex-direction: column;
+    align-items: center;
+
+  }
+  .loading{
+    text-align: center;
+    color: $textColorCard;
+    font:$fontBody;
+  }
+ }

@@ -1,0 +1,28 @@
+//color
+$white: #F0F0F0;
+$black: #000000;
+$black-100: #222222;
+$gray: #777777;
+$gray-100: #d9d9d9;
+$gray-200: #f0f0f0;
+
+//text-color
+$textColorCard: $gray-200;
+$textColorReview: $black;
+
+//background-color:
+$bgBody: $black-100;
+$bgCard: $gray-100;
+$bgTitle: $gray;
+
+//text
+
+$fontFamily: 'Inter', 'Arial', sans-serif;
+$fontH1: 400 #{96px} / #{120%} $fontFamily;
+$fontH2: 400 #{40px} / #{120%} $fontFamily;
+$fontP1: 400 #{36px} / #{120%} $fontFamily;
+$fontBody: 400#{24px} /#{120%} $fontFamily;
+$fontMain: 400#{16px} /#{120%} $fontFamily;
+$fontSmall: 400#{14px} /#{120%} $fontFamily;
+$fontSubhed: 400 #{13px} / #{120%} $fontFamily;
+$fontFootnote: 400 #{12px} / #{120%}$fontFamily;
