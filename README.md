@@ -1,6 +1,6 @@
 ## Имитация интернет-магазина
 
-Это проект [Next.js](https://github.com/LinaSapozhnik1991/Practice), созданный с помощью [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). Проект представляет собой лендинг-пейдж для дизайнерского агентства, демонстрирующий услуги и портфолио.
+Это проект [Next.js](https://github.com/LinaSapozhnik1991/Practice), созданный с помощью [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). Проект представляет собой лендинг-пейдж для выбора товаров из списка, позволяющий добавлять их в корзину.
 
 ## Краткое описание
 
@@ -18,8 +18,8 @@
 
    ```
    bash
-   git clone https://github.com/LinaSapozhnik1991/Practice.git
-   cd Practice
+   git clone https://github.com/LinaSapozhnik1991/test-o-complex.git
+   cd test-app
    ```
 
 2. Установите зависимости:
